@@ -1,1 +1,1 @@
-### This repo has been moved to the BIG IDEAS Lab
+### This repo has been moved to https://github.com/Big-Ideas-Lab/nutrics
